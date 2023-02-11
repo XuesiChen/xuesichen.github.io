@@ -1,5 +1,5 @@
 # Site settings
-title: "Xuesi Chen/陈学思"
+title: "Xuesi Chen/陳學思"
 description: "personal website for Xuesi Chen."
 
 # Build settings
@@ -10,14 +10,14 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Xuesi Chen 陳學思"
+resume_name:                    "Xuesi Chen"
 resume_title:                   "first-year PhD student at CMU"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "xuesic@andrew.cmu.edu"
 
 resume_header_intro: "<p>I am a first-year PhD student in the Electrical and Computer Engineering Department at Carnegie Mellon University. I am co-advised by Professor Brandon Lucia and Nathan Beckmann. I am broadly interested in computer architecture and currently working on implementing time multiplexed processing elements for energy-minimal programmable architecture.
-I got my Bachelor in Computer Engineering from Tufts University. I was advised by Professor Mark Hempstead.</p>"
+I got my Bachelor in Computer Engineering from Tufts University, advised by Professor Mark Hempstead.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -44,7 +44,7 @@ resume_social_links:
   #resume_twitter_url:           "http://twitter.com/jglovier"
   #resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "//https://www.linkedin.com/in/xuesi-chen-65892a137/"
+  resume_linkedin_url:          "https://www.linkedin.com/in/xuesi-kristen-chen"
   # resume_instagram_url:         "insert your Instagram URL here"
   #resume_website_url:           "http://joelglovier.com"
  # resume_medium_url:            "https://medium.com/@jglovier"
