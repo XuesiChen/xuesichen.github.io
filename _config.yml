@@ -10,14 +10,19 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Xuesi Chen"
+# resume_name:                    "Xuésī Chén 陳學思"
+resume_name:                    "Xuesi Chen 陳學思"
 resume_title:                   "first-year PhD student at CMU"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "xuesic@andrew.cmu.edu"
 
-resume_header_intro: "<p>I am a first-year PhD student in the Electrical and Computer Engineering Department at Carnegie Mellon University. I am co-advised by Professor Brandon Lucia and Nathan Beckmann. I am broadly interested in computer architecture and currently working on implementing time multiplexed processing elements for energy-minimal programmable architecture.
-I got my Bachelor in Computer Engineering from Tufts University, advised by Professor Mark Hempstead.</p>"
+resume_header_intro: "<p>I am a first-year PhD student in the Electrical and
+Computer Engineering Department at Carnegie Mellon University, co-advised by
+Professor Brandon Lucia and Nathan Beckmann. My research interest is computer
+architecture, and I am currently working on dataflow architecture on CGRA. I
+got my Bachelor in Computer Engineering from Tufts University, advised by
+Professor Mark Hempstead.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
