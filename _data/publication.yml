@@ -3,7 +3,20 @@
   authors: Xuesi Chen, Nishanth Subramanian, Karthik Ramanathan, Nathan Beckmann, Brandon Lucia
   venue: YArch
   url: "https://xuesichen.github.io/pdf/2023.yarch.dataflowblocks.pdf"
+  year: 2023
+
+- title: Designing Equitable Data Center Scheduling Systems
+  authors: Sahana Rangarajan, Xuesi Chen, Pratyush Patel*, Jaylen Wang, Akshitha Sriraman
+  venue: CWIDCA
+  url: "https://xuesichen.github.io/pdf/CWIDCA_2022.pdf"
   year: 2022
+
+- title: PInTE Probabilistic Induction of Theft Evictions
+  authors: Cesar Gomes, Xuesi Chen, Mark Hempstead
+  venue: IISWC
+  url: "https://xuesichen.github.io/pdf/PInTE.pdf"
+  year: 2022
+
 
 # VP of Global Communications
 # - company: Springfield International Human Rights Outreach
