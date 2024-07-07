@@ -12,12 +12,12 @@ sass:
 resume_avatar:                  "true"
 # resume_name:                    "Xuésī Chén 陳學思"
 resume_name:                    "Xuesi Chen 陳學思"
-resume_title:                   "first-year PhD student at CMU"
+resume_title:                   "PhD student at CMU"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "xuesic@andrew.cmu.edu"
 
-resume_header_intro: "<p>I am a first-year PhD student in the Electrical and
+resume_header_intro: "<p>I am a second-year PhD student in the Electrical and
 Computer Engineering Department at Carnegie Mellon University, co-advised by
 Professor Brandon Lucia and Nathan Beckmann. My research interest is computer
 architecture. My current research focus is dataflow architecture on CGRA. I
