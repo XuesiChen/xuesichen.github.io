@@ -131,13 +131,6 @@
           <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
           <!-- <h4 class="resume-item-details" itemprop="description">{{ project.role }}  &bull; {{ project.duration }}</h4> -->
           <p class="resume-item-copy">{{ project.description }}</p>
-          <ul>
-            {% for post in site.posts %}
-              <li>
-                <a href="{{ post.url }}">{{ post.title }}</a>
-              </li>
-            {% endfor %}
-          </ul>
         </div>
         {% endfor %}
 
@@ -215,9 +208,25 @@
         <div class="resume-item">
           <ul class="resume-item-list">
             {% for interest in site.data.interests %}
-            <li>{{ interest.description }}</li>
+            <li>
+              {% if interest.url %}
+                <!-- <h3 class="resume-item-details" itemprop="title"><a href = "{{interest.url}}">{{ interest.description }}</a></h3> -->
+                {{ interest.description }}
+                <!-- {% include {{interest.url}} %}  -->
+              {% else %}
+                {{ interest.description }}
+              {% endif %}
+              <!-- <p class="resume-item-copy">{{ interest.description }}</p> -->
+            </li> 
             {% endfor %}
           </ul>
+          <!-- <ul>
+            {% for post in site.posts %}
+              <li>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+              </li>
+            {% endfor %}
+          </ul> -->
         </div>
 
       </section>
