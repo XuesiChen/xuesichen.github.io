@@ -1,14 +1,18 @@
 metadata:
-  last_updated: '2026-02-11'
+  last_updated: '2026-02-23'
 papers:
   K8AucmEAAAAJ:2osOgNQ5qMEC:
-    citations: 5
+    citations: 6
     title: 'Slower is Greener: Acceptance of Eco-feedback Interventions on Carbon Heavy Internet Services'
     year: '2025'
   K8AucmEAAAAJ:9yKSN-GCB0IC:
-    citations: 2
+    citations: 3
     title: 'CarbonClarity: Understanding and Addressing Uncertainty in Embodied Carbon for Sustainable Computing'
     year: '2025'
+  K8AucmEAAAAJ:IjCSPb-OGe4C:
+    citations: 0
+    title: 'COFFEE: A Carbon-Modeling and Optimization Framework for HZO-based FeFET eNVMs'
+    year: '2026'
   K8AucmEAAAAJ:UeHWp8X0CEIC:
     citations: 0
     title: Designing Equitable Data Center Scheduling Systems
