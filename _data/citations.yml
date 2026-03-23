@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-23'
+  last_updated: '2026-03-23'
 papers:
   K8AucmEAAAAJ:2osOgNQ5qMEC:
     citations: 6
@@ -13,15 +13,23 @@ papers:
     citations: 0
     title: 'COFFEE: A Carbon-Modeling and Optimization Framework for HZO-based FeFET eNVMs'
     year: '2026'
+  K8AucmEAAAAJ:Tyk-4Ss8FVUC:
+    citations: 0
+    title: 'A Greener Edge: A Framework on Carbon-aware Edge ML System Design'
+    year: '2026'
   K8AucmEAAAAJ:UeHWp8X0CEIC:
     citations: 0
     title: Designing Equitable Data Center Scheduling Systems
     year: Unknown Year
   K8AucmEAAAAJ:qjMakFHDy7sC:
-    citations: 0
+    citations: 1
     title: 'Dataflow Blocks: Modular Time-Multiplexing for CGRAs'
     year: Unknown Year
   K8AucmEAAAAJ:u5HHmVD_uO8C:
     citations: 2
     title: 'PInTE: Probabilistic Induction of Theft Evictions'
     year: '2022'
+  K8AucmEAAAAJ:zYLM7Y9cAGgC:
+    citations: 1
+    title: 'From Component to System: Rethinking Edge Computing Design through a Carbon-Aware Lens'
+    year: '2025'
