@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-23'
+  last_updated: '2026-04-10'
 papers:
   K8AucmEAAAAJ:2osOgNQ5qMEC:
     citations: 6
@@ -30,6 +30,6 @@ papers:
     title: 'PInTE: Probabilistic Induction of Theft Evictions'
     year: '2022'
   K8AucmEAAAAJ:zYLM7Y9cAGgC:
-    citations: 1
+    citations: 2
     title: 'From Component to System: Rethinking Edge Computing Design through a Carbon-Aware Lens'
     year: '2025'
