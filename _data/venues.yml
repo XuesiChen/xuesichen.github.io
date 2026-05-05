@@ -1,9 +1,39 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"MobiSys 2026":
+  url: https://www.sigmobile.org/mobisys/2026/
+  color: "#534AB7"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ICCAD 2025":
+  url: https://2025.iccad.com/
+  color: "#0F6E56"
 
-"Vision":
-  color: "#009f36"
+"DATE 2026":
+  url: https://www.date-conference.com/
+  color: "#993C1D"
+
+"ICT4S 2026":
+  url: https://conf.researchr.org/home/ict4s-2026
+  color: "#3B6D11"
+
+"JCSS 2025":
+  url: https://dl.acm.org/journal/acmjcss
+  color: "#185FA5"
+
+"IISWC 2022":
+  url: https://iiswc.org/iiswc2022/
+  color: "#854F0B"
+
+"HotCarbon 2025":
+  url: https://hotcarbon.org/2025
+  color: "#A32D2D"
+
+"YArch 2023":
+  url: https://web.mit.edu/yarch2023/
+  color: "#993556"
+
+"HSSB 2022":
+  url: https://sites.tufts.edu/tcal/hssb-hotspots-strike-back/
+  color: "#5F5E5A"
+
+"CWIDCA 2022":
+  url: https://sites.google.com/colorado.edu/cwidca2022/home
+  color: "#185FA5"
