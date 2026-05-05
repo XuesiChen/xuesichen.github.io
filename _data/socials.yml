@@ -15,7 +15,7 @@
 # email: you@example.com # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-# github_username: # your GitHub user name
+github_username: XuesiChen
 # gitlab_username: # your GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
 # ieee_id: # your ieeexplore.ieee.org/author/id
@@ -26,10 +26,10 @@
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-# linkedin_username: # your LinkedIn user name
+linkedin_username: xuesi-kristen-chen
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-# orcid_id: # your ORCID ID
+orcid_id: 0009-0005-5012-7522
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
