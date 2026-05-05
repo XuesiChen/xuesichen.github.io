@@ -11,7 +11,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>📧 xc562[at]cornell.edu </p>
-    <p>🧾 <a href="/assets/pdf/Xuesi_Chen_CV_2025.pdf" target="_blank">Curriculum Vitae</a></p>
+    <p>🧾 <a href="/assets/pdf/Xuesi_Chen_CV_2026.pdf" target="_blank">Curriculum Vitae</a></p>
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
