@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-07-06'
+  last_updated: '2026-07-20'
 papers:
   K8AucmEAAAAJ:2osOgNQ5qMEC:
     citations: 8
     title: 'Slower is Greener: Acceptance of Eco-feedback Interventions on Carbon Heavy Internet Services'
     year: '2025'
   K8AucmEAAAAJ:9yKSN-GCB0IC:
-    citations: 7
+    citations: 8
     title: 'CarbonClarity: Understanding and Addressing Uncertainty in Embodied Carbon for Sustainable Computing'
     year: '2025'
   K8AucmEAAAAJ:IjCSPb-OGe4C:
-    citations: 1
+    citations: 2
     title: 'COFFEE: A Carbon-Modeling and Optimization Framework for HZO-based FeFET eNVMs'
     year: '2026'
   K8AucmEAAAAJ:Tyk-4Ss8FVUC:
@@ -31,7 +31,7 @@ papers:
     year: '2023'
   K8AucmEAAAAJ:u5HHmVD_uO8C:
     citations: 2
-    title: 'PInTE: Probabilistic Induction of Theft Evictions'
+    title: 'PInTE: Probabilistic induction of theft evictions'
     year: '2022'
   K8AucmEAAAAJ:zYLM7Y9cAGgC:
     citations: 4
