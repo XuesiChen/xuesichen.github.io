@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-28'
+  last_updated: '2026-08-31'
 papers:
   K8AucmEAAAAJ:2osOgNQ5qMEC:
-    citations: 7
+    citations: 8
     title: 'Slower is greener: Acceptance of eco-feedback interventions on carbon heavy internet services'
     year: '2025'
   K8AucmEAAAAJ:9yKSN-GCB0IC:
@@ -34,6 +34,6 @@ papers:
     title: 'PInTE: Probabilistic induction of theft evictions'
     year: '2022'
   K8AucmEAAAAJ:zYLM7Y9cAGgC:
-    citations: 4
+    citations: 5
     title: 'From Component to System: Rethinking Edge Computing Design through a Carbon-Aware Lens'
     year: '2025'
